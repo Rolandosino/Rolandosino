@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **C#, ASPET.NET Core**
 - 👯 I’m looking to collaborate on **any project i find in java, spring boot**
 - 💬 Ask me about **Java JEE spring boot**
-- 📫 How to reach me: 
+- 📫 How to reach me: rolandos13@proton.me
 - ⚡ Fun fact: **I love Java**
 
 ### Langages & Outils 
