@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 🐦 Twitter: [@Rolandos1305](https://twitter.com/Rolandos1305)  
 
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=Rolandosino&show_icons=true&theme=radical)](https://github.com/Rolandosino)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rolandosino&layout=compact&theme=radical)](https://github.com/Rolandosino)  
+[![Streak](https://streak-stats.demolab.com?user=Rolandosino&theme=radical)](https://git.io/streak-stats)  
